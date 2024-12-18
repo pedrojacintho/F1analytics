@@ -1,0 +1,80 @@
+# 🏎️ **Análise Detalhada da Temporada 2022 de Fórmula 1**  
+
+> "Dados são o combustível do sucesso na Fórmula 1."  
+> Este projeto analisa o desempenho de pilotos e equipes na temporada de 2022, explorando correlações, padrões e anomalias.  
+
+---
+
+## 🏆 **Pontuação por Construtor**  
+A equipe **Red Bull Racing RBPT** dominou a temporada, acumulando a maior pontuação no campeonato. Com **454 pontos** atribuídos ao campeão **Max Verstappen**, a equipe demonstrou:  
+- 🛠️ **Velocidade**: Constantes inovações técnicas.  
+- 📊 **Consistência**: Dupla de pilotos equilibrada.  
+- 🏁 **Estratégia**: Execução impecável durante as corridas.  
+
+🔗 **Insight**: A soma dessas características colocou a Red Bull à frente de suas rivais.  
+
+---
+
+## 🚀 **Destaque de Pilotos**  
+- **🏅 Max Verstappen**:  
+  - **15 vitórias**, reafirmando sua dominância.  
+  - Converteu a maioria das suas poles em triunfos.  
+- **⚡ Charles Leclerc**:  
+  - Destaque em classificações, com **9 poles**, mas enfrentou dificuldades em manter a liderança durante as corridas.  
+
+📌 **Nota**: Estratégias inconsistentes impediram a Ferrari de tirar proveito do desempenho individual do piloto.  
+
+---
+
+## ⚙️ **Eficiência e Anomalias nos Abandonos (DNFs)**  
+- 🔴 **Carlos Sainz** (Ferrari):  
+  - Teve **6 DNFs**, afetando significativamente a pontuação da equipe.  
+- 🟢 **George Russell** (Mercedes):  
+  - Mostrou **apenas 1 DNF**, destacando-se como um piloto calculista e confiável.  
+
+🔎 **Análise**: Alta confiabilidade técnica favorece equipes em cenários de longa temporada.  
+
+---
+
+## 🏁 **Correlação entre Poles e Vitórias**  
+- **Max Verstappen**:  
+  - **7 poles** ➡️ **15 vitórias**.  
+- **Charles Leclerc**:  
+  - **9 poles** ➡️ **3 vitórias**.  
+
+📊 **Tendência Observada**: Pilotos que convertem poles em vitórias consolidam o domínio técnico e estratégico, enquanto os que falham expõem fraquezas no conjunto técnico-equipe.  
+
+---
+
+## 📊 **Métricas de Performance por Equipe**  
+- **Mercedes**:  
+  - Média de abandonos abaixo do grid.  
+  - Mantém confiabilidade, mas carece de competitividade em corridas.  
+- **Ferrari**:  
+  - Alta taxa de poles e pódios, mas desempenho inconsistente em corridas comprometeu os resultados gerais.  
+
+---
+
+## 🔍 **Anomalias e Surpresas da Temporada**  
+- 🌧️ **Corridas com abandonos em massa** devido a condições climáticas adversas.  
+- 🏙️ **Sergio Pérez**:  
+  - Variação de desempenho entre circuitos de rua e pistas tradicionais.  
+
+📌 **Surpresa**: Circuitos específicos revelaram forças e fraquezas inesperadas em várias equipes.  
+
+---
+
+## 🎯 **Conclusão**  
+A análise da temporada 2022 reforça a complexidade da Fórmula 1, onde a combinação de aspectos técnicos, estratégicos e humanos define o sucesso.  
+
+🛠️ **Habilidades Demonstradas**:  
+- 📈 Manipulação de grandes volumes de dados.  
+- 🔍 Identificação de padrões e anomalias.  
+- 📊 Geração de insights estratégicos a partir de dados brutos.  
+
+Essa análise é um exemplo de como dados podem ser utilizados para desvendar histórias complexas e gerar valor em cenários reais.  
+
+---
+
+💡 **Quer explorar mais?**  
+Veja o código completo no repositório ou entre em contato para discussões sobre esta análise!  
